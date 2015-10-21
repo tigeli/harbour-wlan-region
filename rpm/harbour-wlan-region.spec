@@ -6,7 +6,7 @@ BuildArch: noarch
 Group: System/Base
 License: GPLv2
 Source0: %{name}-%{version}.tar.gz
-URL: https://
+URL: https://github.com/tigeli/harbour-wlan-region
 BuildRequires: sed
 Requires: sed
 
